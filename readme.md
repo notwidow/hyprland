@@ -3,7 +3,7 @@
 
 Hyprland is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
 
-Operating System:  Arch 
+> Operating System:  Arch 
 Window Manager:    Hyprland
 Status Bar:        Waybar-hyprland-git
 Launcher:          Wofi
@@ -16,7 +16,8 @@ Web Browser:       Firefox
 
 If you want to install this setup on ARCH Linux or on any other distro, follow the points below:
 
-1. Install the following programs on your computer: hyprland, swaybg, swayidle, swaylock, 
+1. Install the following programs on your computer:
+> hyprland, swaybg, swayidle, swaylock, 
 wlroots, wl-clipboard, waybar-hyprland-git, wofi, kitty (and/or foot), mako, grim, slurp, 
 wf-recorder, light, yad, thunar, geany, mpv, mpd, mpc, ncmpcpp, viewnior (or nomacs), 
 imagemagick, xfce-polkit (or polkit-gnome), xorg-xwayland.
