@@ -1,13 +1,5 @@
 #!/bin/bash
 
-###################################################
-#												  #
-# ==> Autor: Elder M. Fouraux                     #
-#                                                 #
-# ==> Descrição: video and files basic apps       #
-#				(AGO/2022)						  #
-###################################################
-
 {
 echo -e "Let's install the Hyprland Wayland. We can proceed? (y/N)?"
 read answer
