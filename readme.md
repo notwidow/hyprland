@@ -32,4 +32,4 @@ imagemagick, xfce-polkit (or polkit-gnome), xorg-xwayland.
 - I did not have the wallpaper shown in the picture and for wallpapers
 >  Create a folder in hypr with name wallpapers and add your wallpapers there...
 - Also note to update the files for changing  the txt editor or other applications.
-- If you want to install it in a non-systemd distro then change the commands as well in the files.
+- If you want to install it in a non-systemd distro then change the commands in the files as well.
