@@ -1,6 +1,6 @@
 ![192105792-a09413e3-8a68-476a-aed1-34b7db63b676](https://user-images.githubusercontent.com/112823418/199796805-c2eed8df-23a0-41a0-ac7d-d0408d8d6ada.png)
 
-
+# Hyprland
 Hyprland is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
 
 - Operating System:  Arch 
