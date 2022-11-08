@@ -30,7 +30,5 @@ imagemagick, xfce-polkit (or polkit-gnome), xorg-xwayland.
 
 # Note:
 - You can change Text editor from geany to any other as well.
-- I did not have the wallpaper shown in the picture and for wallpapers
->  Create a folder in hypr with name wallpapers and add your wallpapers there...
 - Also note to update the files for changing  the txt editor or other applications.
 - If you want to install it in a non-systemd distro then change the commands in the files as well.
