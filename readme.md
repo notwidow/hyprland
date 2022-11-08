@@ -14,6 +14,7 @@ Hyprland is a dynamic tiling Wayland compositor based on wlroots that doesn't sa
 - Text Editor:       Geany
 - Web Browser:       Firefox
 
+# Installation
 If you want to install this setup on ARCH Linux or on any other distro, follow the points below:
 
 1. Install the following programs on your computer:
