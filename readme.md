@@ -27,8 +27,6 @@ imagemagick, xfce-polkit (or polkit-gnome), xorg-xwayland.
 
 3. copy or move hyper folder to ~/.config/.
 
-4. Login again and enjoy...!!!
-
 # Appearance
 Install the following theme, icon pack, cursors and fonts for overall appearance.
 
