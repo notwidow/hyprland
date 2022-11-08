@@ -28,6 +28,14 @@ imagemagick, xfce-polkit (or polkit-gnome), xorg-xwayland.
 
 4. Login again and enjoy...!!!
 
+# Appearance
+Install the following theme, icon pack, cursors and fonts for overall appearance.
+
+- GTK Theme : Manhattan gtk theme
+- Icon Theme : Luv icon theme
+- Cursor Theme : Qogir cursor theme
+- Fonts : JetBrainsMono Nerd Font, Iosevka Nerd Font, Icomoon Feather, Archcraft
+
 # Note:
 - You can change Text editor from geany to any other as well.
 - Also note to update the files for changing  the txt editor or other applications.
