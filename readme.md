@@ -39,3 +39,6 @@ Install the following theme, icon pack, cursors and fonts for overall appearance
 - You can change Text editor from geany to any other as well.
 - Also note to update the files for changing  the txt editor or other applications.
 - If you want to install it in a non-systemd distro then change the commands in the files as well.
+
+#License
+- Freedom at will.
